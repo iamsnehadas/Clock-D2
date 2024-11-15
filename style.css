@@ -11,6 +11,7 @@
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    background-color: #FAF6E3;
 }
 .clock-hour,
 .clock-minute,
@@ -21,22 +22,22 @@
 }
 .clock-hour {
     width: 5px;
-    height: 60px; 
-    top: 30%;
-    left: 48%;
-    background: #0f0f0f;
+    height: 57px; 
+    top: 31.7%;
+    left: 49%;
+    background: #867070;
 }
 .clock-minute {
     width: 3px;
-    height: 80px;
-    left: 49%;
-    top: 20%;
-    background: #136c57;
+    height: 72px;
+    left: 49.5%;
+    top: 24%;
+    background: #B17457;
 }
 .clock-second {
     width: 2px;
-    height: 90px;
-    left: 50%;
-    top: 15%;
-    background: #a43131;
+    height: 80px;
+    left: 50.3%;
+    top: 19.9%;
+    background: #4A4947;
 }
